@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: lirong_paper.pdf
-type: OCWFile
 uid: ca16657d-97ad-dbcc-1e18-1b7e91b2179c
 ---

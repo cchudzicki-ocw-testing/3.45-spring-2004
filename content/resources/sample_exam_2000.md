@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: sample_exam_2000.pdf
-type: OCWFile
 uid: 0bc5d5f8-f671-c53d-35e1-3c35c6b1b3e1
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: neltner_paper.pdf
-type: OCWFile
 uid: f014aa8c-de10-0271-7434-9efd0f90fadd
 ---

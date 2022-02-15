@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: diego_slides.pdf
-type: OCWFile
 uid: 185873b9-aeee-b97e-f06a-d68c837e742d
 ---

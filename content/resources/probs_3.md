@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: probs_3.pdf
-type: OCWFile
 uid: 9686ccc0-5a81-b646-47ec-7bd5fe4110ca
 ---

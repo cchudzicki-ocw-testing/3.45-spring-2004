@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: wells_paper.pdf
-type: OCWFile
 uid: 2f4929ca-36e8-0943-4019-3b9a91ebe69e
 ---

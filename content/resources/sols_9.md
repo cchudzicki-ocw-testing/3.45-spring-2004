@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: sols_9.pdf
-type: OCWFile
 uid: 2185b3bb-1a68-5a25-fe6d-a451861d6613
 ---

@@ -8,6 +8,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: syllabus.pdf
-type: OCWFile
 uid: 28490ea5-1af7-085f-eaa6-ea5966a9736f
 ---

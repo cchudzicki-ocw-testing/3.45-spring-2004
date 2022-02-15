@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: mccluskey_slides.pdf
-type: OCWFile
 uid: 214e8f52-9f4b-30b9-447b-0bf02a6967fb
 ---

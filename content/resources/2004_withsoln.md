@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 2004_withsoln.pdf
-type: OCWFile
 uid: a3c1fbb2-1a19-1955-3462-6ffce2fdcc36
 ---

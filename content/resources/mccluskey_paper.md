@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: mccluskey_paper.pdf
-type: OCWFile
 uid: 67e38b64-d1fd-6f7e-b954-7d7f6060c773
 ---
